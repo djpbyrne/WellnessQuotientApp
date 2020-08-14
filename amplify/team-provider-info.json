@@ -10,11 +10,6 @@
             "StackName": "amplify-wqappv1-dev-140806",
             "StackId": "arn:aws:cloudformation:us-west-2:796680348404:stack/amplify-wqappv1-dev-140806/ec1c8050-dcdf-11ea-8732-06d207b7e764",
             "AmplifyAppId": "d2r5nurubwgkv1"
-        },
-        "categories": {
-            "auth": {
-                "wqappv1e4fbe994": {}
-            }
         }
     }
 }
